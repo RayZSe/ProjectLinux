@@ -24,8 +24,8 @@ This program, `guessinggame.sh`, is a simple guessing game where the user tries 
 
 This README.md file was generated using the makefile. Below are the details:
 
-- Date and time at which make was run: April 13, 2024, 10:30 AM
-- Number of lines of code in guessinggame.sh: 28
+- Date and time at which make was run: April 13, 2024, 9:50 PM
+- Number of lines of code in guessinggame.sh: 32
 
 ## Cleaning Up
 
