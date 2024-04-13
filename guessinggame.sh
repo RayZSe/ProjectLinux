@@ -2,7 +2,7 @@
 
 # Function to count the number of files in the current directory
 file_count() {
-    local count=$(ls -l | grep "^-" | wc -l)
+    local count=$(ls -1 |  wc -l)
     echo $count
 }
 
@@ -26,7 +26,7 @@ main() {
             break
         fi
     done
+    echo "***" && ls -1
 }
-
 # Call the main function
 main
