@@ -5,4 +5,4 @@ README.md: guessinggame.sh
 
 .PHONY: clean
 clean:
-    rm README.md
+    rm README.md  
